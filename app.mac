@@ -1,0 +1,572 @@
+delay 2000
+
+Constants
+Value = 1
+True = 1
+Count = 0
+end	
+while $True = 1
+//refresh
+mousepos 86, 49
+delay 500
+leftclick
+delay 500
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 813, 664 = 255
+  Set Value = 0
+End
+
+end
+
+//login
+mousepos 806, 659
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 1243, 306  = 255
+  Set Value = 0
+End
+
+end
+//mine
+mousepos  1221, 300
+delay 500
+leftclick
+
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 787, 783 = 255
+  Set Value = 0
+End
+
+end
+//mine
+mousepos 787, 783 
+delay 500
+delay 500
+leftclick
+
+
+delay 10000
+mousepos 370, 623
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 956, 460 = 255
+  Set Value = 0
+End
+
+end
+delay 3000
+mousepos 755, 573
+delay 500
+leftclick
+delay 15000
+mousepos 370, 623
+delay 500
+leftclick
+delay 10000
+delay 500
+leftclick
+delay 3000
+mousepos 479, 748
+delay 500
+leftclick
+delay 1000
+mousepos 639, 868
+delay 500
+leftclick
+delay 1000
+mousepos 86, 49
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 813, 664 = 255
+  Set Value = 0
+End
+
+end
+mousepos 806, 659
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 1243, 306 = 255
+  Set Value = 0
+End
+
+end
+mousepos  1241, 300
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 787, 783 = 255
+  Set Value = 0
+End
+
+end
+mousepos 850, 789
+delay 500
+leftclick
+delay 10000
+mousepos 370, 623
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 920, 477 = 255
+  Set Value = 0
+End
+
+end
+delay 3000
+mousepos 755, 573
+delay 500
+leftclick
+
+delay 15000
+mousepos 370, 623
+delay 500
+leftclick
+delay 10000
+delay 500
+leftclick
+delay 3000
+mousepos 479, 748
+delay 500
+leftclick
+delay 1000
+mousepos 579, 868
+delay 500
+leftclick
+delay 1000
+
+mousepos 675, 878
+delay 500
+leftclick
+delay 1000
+mousepos 86, 49
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 813, 664 = 255
+  Set Value = 0
+End
+
+end
+mousepos 806, 659
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 1243, 306 = 255
+  Set Value = 0
+End
+
+end
+mousepos  1241, 300
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 787, 783 = 255
+  Set Value = 0
+End
+
+end
+mousepos 850, 789
+delay 500
+leftclick
+delay 10000
+mousepos 370, 623
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 920, 477 = 255
+  Set Value = 0
+End
+
+end
+delay 3000
+mousepos 755, 573
+delay 500
+leftclick
+
+delay 15000
+mousepos 370, 623
+delay 500
+leftclick
+delay 10000
+delay 500
+leftclick
+delay 3000
+mousepos 479, 748
+delay 500
+leftclick
+delay 1000
+mousepos 579, 868
+delay 500
+leftclick
+delay 1000
+mousepos 724, 872
+delay 500
+leftclick
+delay 1000
+mousepos 86, 49
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 813, 664 = 255
+  Set Value = 0
+End
+
+end
+mousepos 806, 659
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 1243, 306 = 255
+  Set Value = 0
+End
+
+end
+mousepos  1241, 300
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 787, 783 = 255
+  Set Value = 0
+End
+
+end
+mousepos 850, 789
+delay 500
+leftclick
+delay 10000
+mousepos 370, 623
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 920, 477 = 255
+  Set Value = 0
+End
+
+end
+delay 3000
+mousepos 755, 573
+delay 500
+leftclick
+
+delay 15000
+mousepos 370, 623
+delay 500
+leftclick
+delay 10000
+delay 500
+leftclick
+delay 3000
+mousepos 479, 748
+delay 500
+leftclick
+delay 1000
+mousepos 579, 868
+delay 500
+leftclick
+delay 1000
+
+mousepos 774, 872
+delay 500
+leftclick
+delay 1000
+mousepos 86, 49
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 813, 664 = 255
+  Set Value = 0
+End
+
+end
+mousepos 806, 659
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 1243, 306 = 255
+  Set Value = 0
+End
+
+end
+mousepos  1241, 300
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 787, 783 = 255
+  Set Value = 0
+End
+
+end
+mousepos 850, 789
+delay 500
+leftclick
+delay 10000
+mousepos 370, 623
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 920, 477 = 255
+  Set Value = 0
+End
+
+end
+delay 3000
+mousepos 755, 573
+delay 500
+leftclick
+
+delay 15000
+mousepos 370, 623
+delay 500
+leftclick
+delay 10000
+delay 500
+leftclick
+delay 3000
+mousepos 479, 748
+delay 500
+leftclick
+delay 1000
+mousepos 579, 868
+delay 500
+leftclick
+delay 1000
+
+
+mousepos 824, 872
+delay 500
+leftclick
+delay 1000
+mousepos 86, 49
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 813, 664 = 255
+  Set Value = 0
+End
+
+end
+mousepos 806, 659
+delay 500
+leftclick
+delay 5000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 1243, 306 = 255
+  Set Value = 0
+End
+
+end
+mousepos  1241, 300
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 787, 783 = 255
+  Set Value = 0
+End
+
+end
+mousepos 850, 789
+delay 500
+leftclick
+delay 10000
+mousepos 370, 623
+delay 500
+leftclick
+delay 3000
+Set Value = 1
+Set Count = 1
+while $Value = 1
+Compute $Count = $Count + 1
+if $Count > 200
+set Value = 0
+end
+GetBlue 920, 477 = 255
+  Set Value = 0
+End
+
+end
+delay 3000
+mousepos 755, 573
+delay 500
+leftclick
+
+delay 15000
+mousepos 370, 623
+delay 500
+leftclick
+delay 10000
+delay 500
+leftclick
+delay 3000
+mousepos 479, 748
+delay 500
+leftclick
+delay 1000
+mousepos 579, 868
+delay 500
+leftclick
+delay 1000
+end
