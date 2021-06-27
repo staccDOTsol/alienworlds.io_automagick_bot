@@ -2,7 +2,7 @@
 
 This bot automagically mines NFTs and crypto on alienworlds.io.
 
-It's built for 6 chrome windows in windows 10 at 1600x900.
+It's built for 6 chrome windows in windows 10 at 1600x900, using AC Tool (google it).
 
 See here:
 
